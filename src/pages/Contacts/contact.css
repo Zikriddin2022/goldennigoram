@@ -1,0 +1,49 @@
+/* CSS kodlari */
+.maps {
+  padding-top: 70px;
+  margin: auto;
+  width: 100%;
+  height: 100vh;
+}
+
+.asosiy {
+  margin-top: 200px;
+  max-width: 500px;
+  margin: 0 auto;
+  padding: 20px;
+  background: #f2f2f2;
+  border-radius: 5px;
+}
+
+.asosiy h2 {
+  text-align: center;
+}
+
+.asosiy input[type=text],
+.asosiy input[type=email],
+.asosiy input[type=tel],
+.asosiy textarea {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 15px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  resize: none;
+}
+
+.asosiy textarea {
+  height: 100px;
+}
+
+.asosiy input[type=submit] {
+  background: #4CAF50;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.asosiy input[type=submit]:hover {
+  background: #45a049;
+}/*# sourceMappingURL=contact.css.map */

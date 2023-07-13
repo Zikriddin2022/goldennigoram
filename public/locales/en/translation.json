@@ -1,0 +1,117 @@
+{
+    "NAVBAR":{
+        "travel":"GOLDENNIGORAM Travel",
+        "home":"Home",
+        "about":"About",
+        "hotel":"Hotels & Stays",
+        "visit":"Places To Visit",
+        "contact":"Contact",
+        "uzbekistan":"Uzbekistan",
+        "gallery":"Gallery",
+        "language":"Language"
+    },
+
+    "HOME":{
+        "welcome":"Welcome to Uzbekistan",
+        "our":"Travel with us"
+    },
+
+    "Main":{
+        "most":"Most visited destinations",
+        "details":"Details",
+        "meros":"Cultural heritage",
+        
+        "samarqand":"Tour of the city of Samarkand",
+        "sdesc":"The cultural heritage of Samarkand is huge. For centuries, this city has been the main center of the Great Silk Road. At the beginning of the 21st century, the city was included in the UNESCO World Heritage List under the name \"Samarkand - Crossroads of Cultures\"! Visit the city, you will be surprised by the number of historical monuments, but we will show you the most famous sights that are definitely worth seeing! Samarkand souvenir shops can please fans of handicrafts made of wood, fabric and other materials. Traditionally, the composition of master buildings is in old madrasas, and all handicrafts are made by hand by artisans. But in Samarkand, in addition to souvenirs, it is possible to show several products that you will not find in any other part of the country. ",
+        "sdetails":"1. Complex of mausoleums in Shahizin. 2. Khwaja Abdu Darun mausoleum. 3. Bibikhanim Mosque. 4. Gori Amir mausoleum. 5. Khoja Ahror Vali complex. 6. Ulugbek Madrasa. 7. Ruhabad mausoleum. 8. Khoja Abdu Berun complex. 9. Sherdar Madrasah. 10. Tillakori Madrasa. 11. Hazrat Khizr Mosque. 12. Tomb of Imam al-Maturidi. 13. Imam al-Bukhari memorial complex. 14. Tomb of Imam al-Dorami.",
+        "sregion":   "Samarkand region of Uzbekistan",
+
+        "buxoro":"Tour of the city of  Bukhara",
+        "bdesc":"Holy Bukhara is one of the tourist gems of Uzbekistan. The historic city center is included in the UNESCO World Heritage List. The age of the city is more than 2500 years. If you want to fall into the atmosphere of an ancient oriental fairy tale, visit the most interesting places of Bukhara: Bukhara is an oasis city, the largest settlement in the middle of the desert. Once located on the Great Silk Road, the city is one of the oldest, its history is more than 2500 years old. A city with an amazing atmosphere of wisdom, sanctity and education. Once you are in this city, you will feel as if you are in another world and another planet. The unique mix of cultural, religious, ethnic civilizations has turned Bukhara into a city of unforgettable impressions.",
+        "bdetails":"1. Ismoil Samoniy maqbarasi. 2. Minorai Kalon. 3. Mag’oki Attori masjidi. 4. Vobkent minorasi. 5. Namozgoh masjidi. 6. Chashmai Ayyub maqbarasi. 7. Bo’yonqulixon maqbarasi. 8. Ulug’bek maqbarasi. 9. Bahouddin Naqshband majmuasi. 10. Mir Arab madrasasi. 11. Qo’shmadrasa majmuasi. 12. Baland masjidi. 13. Chor Bakr me’moriy majmuasi. 14. Xo’ja Zayniddin masjidi. 15. Ko’kaldosh madrasasi. 16. Nodir Devonbegi xonaqohi. 17. Abdulazizxon madrasasi.",
+        "bregion":   "Bukhara region of Uzbekistan",
+
+        "xiva":"Tour of the city of Khiva",
+        "xdesc":"When you arrive in Khiva, the first thing you will see is the huge defensive wall that surrounds Ichan-Kala. Behind its walls, the sense of real reality is completely lost. The magical Khiva is located on an area of ​​25 hectares, and its age is more than 2500 years. The city was the center of the northern branch of the Great Silk Road. The city of Khiva is one of the few cities that has preserved its originality, as originally thought by the architects. Khiva is a \"living\" monument, a museum city. According to one of the legends, the ancient city was founded by Som, the son of Noah from the holy books. He starts digging a well in the middle of the desert. Passing caravans and merchants taste the surprisingly delicious water and exclaim \"hevah\", meaning \"how good\". This is how this wonderful city was born. ",
+        "xdetails":"1. Friday Mosque. 2. Sheikh Mukhtar Vali mausoleum. 3. Said Alauddin mausoleum. 4. Sherghazi Khan madrasa. 5. Pahlavon Mahmud mausoleum and complex. 6. Said Magrumjon mausoleum. 7. Olloqulikhan Madrasa. 8. Muhammad Amin Khan Madrasa. 9. Muhammad Rahimkhan Madrasa. 10. Islamkhoja madrasa and minaret.",
+        "xregion":"Khorezm region of Uzbekistan",
+
+        "surx":"Tour of the city of  Surkhandarya",
+        "sudesc":"Surkhandarya region is distinguished by mountains and ecotourism. In the region, you can see caves, massifs and gorges that show the amazing beauty of the natural landscape. These places attract a lot of attention from tourists and adventure seekers. Here you can get acquainted with the monuments of the distant past. Including open-air museums, Buddhist temples, ruins of ancient settlements, ancient fortresses, places of worship. The Surkhandarya Valley was the cradle of the development of a new culture. He gave the names of famous poets, theologians, figures of Islam, philosophers to history. Thanks to them, wonderful architectural monuments of the Middle Ages appeared. The importance of these monuments is important for the entire Islamic world.",
+        "sudetails":"1. Hakim at-Termiziy yodgorlik majmuasi. 2. Sulton Saodat majmuasi. 3. Abu Iso at-Termiziy maqbarasi. 4. Jarqo’rg’on minorasi.",
+        "suregion": "Surkhandarya region of Uzbekistan",
+
+        "qash":"Tour of the city of  Kashkadarya",
+        "qdesc":"The region is located in the basin of the Kashkadarya river on the western slopes of the Pamir-Aloy mountains. The Kashkadarya region is one of the best destinations located in the Kashkadarya oasis, which has the cleanest ecological climate. The name Kashkadarya has several meanings, including \"river disappearing in the sand\"  and \"transparent and clean river\". The city of Karshi, the center of the region, celebrated its 2700th anniversary in 2006. Thanks to the continental (and in some places even subtropical) climate at the foot of the Pamir-Aloy mountains, this region can charm travelers with its clean natural landscapes, beautiful flora and fauna. There are several famous nature reserves in the region, such as Kitab, Hisar and Kyzil-Soy.",
+        "qdetails":"1. Khoja Sarroh memorial complex. 2. Aksaroy. 3. Tomb of Hazrat Imam. 4. Gumbazi Sayyidon mausoleum. 5. Tomb of Sheikh Shamsiddin Kulol. 6. Langar Ota complex. 7. Husam Ota complex." ,
+        "qregion": "Kashkadarya region of Uzbekistan",  
+
+        "vodiy":"A trip through the valley",
+        "vdesc":"the valley is called the jewel of Central Asia due to its beautiful nature and pleasant climate. The valley, surrounded by Tien-Shan and Hisar-Aloy mountains, opens its gate to the Syrdarya only in the west. The valley has always played an important role in the history and culture of Central Asia. Alqissa, Fergana State - Dawan is mentioned in ancient Chinese chronicles from the end of the 2nd century AD, and in the Middle Ages it was considered one of the leading lands of Movarounnahr. In the 11th century, Margilan was the largest city in the Fergana oasis, where merchants spread silk fabrics along the Great Silk Road to Egypt, Greece, Baghdad, Khorasan and Kashgar. Even today, Margilon can be called the silk capital of Uzbekistan. City artisans weave home-made satin from dyed silk in the old fashioned way and bring it to the market. For 1,100 years, craftsmen have been teaching the secrets of making pottery from local red clay and decorating it with natural mineral paints and a glaze made from the ash of mountain herbs, from generation to generation.",
+        "vdetails":"1. Ahmed al-Farghani complex. 2. Burkhaniddin Marginani mausoleum. 3. Khoja Amin mausoleum. 4. Mausoleum of Mullo Bazar Okhund. 5. Mulla Kyrgyz Madrasah.       ",
+        "vregion":"Fergana, Namangan, Andijan regions of Uzbekistan"
+        }  ,
+
+        "Footer":{
+            "man":"Our Address",
+            "loc":"77C7+46G, Little Ring Road, Yakkasaroy District, Tashkent, Uzbekistan",
+            "a1":"Travel along Uzbekistan",
+            "a2":"Travel throughout Uzbekistan",
+            "a3":"Group tours",
+            "a4":"Travel to Historic Samarkand",
+            "a5":"Travel around the Old City",
+            "a6":"Ecotourism in Zomin",
+            "a7":"Services",
+            "a8":"Tours",
+            "a9":"Agency",
+            "a10":"Tourism",
+            "a11":"Payment",
+            "a12":"Contact Us",
+            "a13":"Telegram",
+            "a14":"Instagram",
+            "a15":"Facebook",
+            "a16":"Email",
+            "a17":"Phone Number",
+            "a18":"Our Agency"
+        },
+
+        "About":{         
+            "aboutUs": "About us",
+            "gold": "Golden Nigoram is our travel agency that has been operating for over 5 years. We have been collaborating with more than 120 countries and constantly expanding our logistics. We are delighted to provide you with our services.",
+            "l1": "2-way tickets",
+            "l2": "5-star hotel accommodation",
+            "l3": "Excursions to historical sites",
+            "l4": "Guided tours",
+            "p": "Embark on unforgettable journeys across Uzbekistan."
+        },
+
+
+        "AboutUzbekistan":{
+            "city1": "Historical Sites of Samarkand City",
+            "mt1": "Shah-i-Zinda Mausoleum Ensemble",
+            "mp1": "Shah-i-Zinda is a memorial complex in Samarkand, dating back to the 11th-19th centuries. It includes mausoleums, a mosque, a minaret, and madrasahs. The oldest among them is the mausoleum of Qusam ibn Abbas, famous among the people as Shah-i-Zinda (the Living King). The ensemble consists of three groups of buildings connected by narrow paths. The structures in the lower group include the Abdulaziz Chortaghi, built by order of Ulugbek's son (1434-1435), with a beautiful facade adorned with intricate designs, and a mosque with exquisite decorative elements. The upper group comprises the mausoleum of Amirzoda, Tuglu Tekin mausoleum, Shirinbeka Og'o mausoleum, Turkan Og'o mausoleum located in front of it, an 8-dome mausoleum, and the Ali Nasafi mausoleum, among others. The buildings in the middle group include a mausoleum, a mosque with three parts, the mausoleum of Khoja Ahmad, built in 1360-1361, the Tuman Og'o ensemble (1405-1406), and two unnamed mausoleums from the end of the 14th century, with preserved entrance portals. The ensemble also includes the Tamgach Bugrokhon madrasah (11th century) and the Amir Burunduq mausoleum (end of the 14th century). Over 20 structures within the ensemble have been under state protection. In the 19th-20th centuries, several more buildings were added to the ensemble. In the 18th century, a new mausoleum with a 40-dome roof was built at the site of the ruined Zinat cemetery. Based on the decision of the Cabinet of Ministers of the Republic of Uzbekistan on July 16, 2004, extensive restoration and renovation work was carried out in the Shah-i-Zinda memorial complex.",
+           
+            "mt2": "Mausoleum of Khwaja Abdu Darun",
+            "mp2": "The mausoleum of Khwaja Abdu Darun is located on the eastern side (darun - inner) of the Samarkand fortress wall. It is an ancient pilgrimage site dating back to the 12th century, with its main building, the khonaqoh, built in the 15th century. The elaborate facade, dome, and decorated walls of the mausoleum reflect the architectural style of the Ulugbek era. Inside the khonaqoh, there is the tomb of Abdu Ma'zid, who lived in the 9th century. The revered father of Khwaja Abdu Darun is known as Khwaja Abduqodir as-Said (Khwaja Abdu Berun) and served as a ruler in Samarkand. Khwaja Abdu Darun is also referred to as Khwaja-i Kunj. He passed away in the month of Zulqada in 247 Hijri (May 861 in the Gregorian calendar). The construction of this place dates back to ancient times when adobe and mud brick were used due to the climate conditions of Uzbekistan. From the 9th to the 12th centuries, not only adobe but also baked bricks were widely used in construction. During this period, various structures such as mosques, mausoleums, madrasahs, caravanserais, and open-air markets emerged. Many buildings were constructed with dome-shaped roofs, while others were adorned with delicate architectural details. The walls of the buildings were decorated with intricate designs made with mud plaster. Adobe played an important role in this era. In addition to residential houses, craft workshops and commercial stores were established. Some of the palaces of city rulers were also constructed using adobe. In many districts of Uzbekistan, the remains of palace-fortresses with adobe walls have been preserved. They were tall and had two stories. The defensive walls and towers of cities and fortresses were also built with adobe and mud brick.",
+           
+            "mt3": "Bibi Khanum Mosque",
+            "mp3": "Bibi Khanum Mosque is a grand historical monument located in the heart of Samarkand, associated with the memory of Amir Timur (Tamerlane) and named after his beloved wife, Bibi Khanum. It was built between 1399 and 1404 under the command of Amir Timur and is considered the largest mosque in Central Asia. The name of the mosque, which translates as 'Great Queen,' is associated with the revered wife of the ruler known as Saroy Mulk Khanum. The construction of the mosque began after Amir Timur's return from his campaign in India, but the progress was interrupted because shortly after, he initiated a military campaign against the Ottoman Empire. In 1404, when Amir Timur returned from the military expedition, he was displeased with the lack of grandeur in the entrance portal of the mosque and ordered its demolition and reconstruction. The mosque complex consists of a main mosque and two smaller mosques. The courtyard of the building covers an area of 5,000 square meters, accommodating up to 10,000 worshippers at a time. The courtyard is adorned with four minarets, adding to its architectural beauty. The building is decorated with intricate tile work, marble, and ornamental carvings contributed by skilled craftsmen from various countries during its construction.",
+           
+            "mt4": "Ulugbek Madrasa",
+            "mp4": "In the mid-15th century, Mirzo Ulugbek (1409-1449), the grandson of Amir Timur, ascended to power in Samarkand. He was not only the representative of the Timurid dynasty but also a prominent scholar and astronomer recognized worldwide. Under his rule, educational institutions flourished in cities such as Bukhara, Samarkand, Shahrisabz, and G'ijduvon, with Ulugbek at the forefront. The Ulugbek Madrasa in Samarkand is considered a masterpiece of Islamic higher education institutions in the eastern region. It was constructed between 1417 and 1420. From a literary perspective, it was not inferior to the buildings established by Timur, and in terms of architectural strength, it even surpassed them. Initially, the madrasa consisted of 50 student cells and accommodated more than a hundred students each year. Historians claim that Ulugbek himself taught at the madrasa. The renowned poet Jami lived and created his works here, and among his students were prominent figures of the Naqshbandi Sufi order, such as Shaykh Khwaja Ahrar Vali and the great poet Alisher Navoi. The two-story building features four towering domes above the lecture rooms and four minarets at the corners. The main facade is adorned with three large and two small arches, creating a magnificent entrance facing the courtyard. The internal structure of the madrasa, including the rooms on the second floor and the external domes, suffered damage during the wars that took place in the 18th century. The major restoration works were carried out by the architects and artists of that era. In 1918, under the guidance of M.F. Mauer, a project was implemented to restore the main portal and the lower parts of the building. Over the course of half a century, the surface of the building, as well as the outer walls on the northern side, were reinforced and restored with new plaster. The Ulugbek Madrasa is listed on UNESCO's World Heritage List.",
+            
+            "city2": "Historical Sites of Khiva",
+            "mt5": "Madrasa of Allakuli Khan",
+            "mp5": "The Madrasa of Allakuli Khan is a historical monument in Khiva (1834-1835). The construction of the madrasa is closely related to the architectural ensemble of Itchan Kala. It was built in the style of a complex of additional madrasas that were widespread in Central Asia, connected to the Allakuli Khan Tim, the Khojamberdibiy Madrasa, and the Polvon Gate. The madrasa is built on an artificial foundation (3 meters high), which makes it significantly taller than the surrounding buildings. The main building has a rectangular shape (62.45x47.0 meters) with a west-facing façade. It consists of a central courtyard surrounded by a mihrab-saroy (a hall for prayers), a mosque, a classroom, and two-story cells. The construction date is preserved on the inscription at the entrance. The courtyard (34.6x29.4 meters) has a unique design and features two-story cells above the small domes of the Polvon Gate and partly above the domes of the corner towers. The mosque and the classroom (4.8x4.8 meters) have a similar structure. They are covered with a half-moon-shaped dome. The walls have deep niches, giving the rooms a spacious appearance. The portal (5.5x5.5 meters) is located on the western side of the madrasa and is adorned with intricate muqarnas (stalactite) decorations in the \"Iroqi\" style. Each of the 99 cells has its own entrance and windows with wooden lattices.",     
+    
+            "mt6": "Madrasa of Muhammad Amin Khan",
+            "mp6": "The Madrasa of Muhammad Amin Khan is a historical monument located on the eastern side of the Samarkand fortress wall (darun-ichkari). It dates back to the 12th century, with the first half of the 15th century being the most significant period of its construction. The main building, a mosque-madrasa complex, was built during the reign of Ulugbek and is known for its exquisite façade, dome, and decorative details. Inside the complex, there is a courtyard that dates back to the 9th century and contains the tomb of the scholar Abdu Ma'zid. The father of the famous Abdu Darun Padari, known as Khwaja Abduqodir as-Said (Khwaja Abdu Berun), who ruled in Samarkand, is also buried here. Khwaja Abdu Darun, also known as Khwaja Kunj, passed away in the month of Zulqa'ida of the year 247 Hijri (May 861 AD). The construction of this site utilized adobe and brick, which were commonly used during ancient times in Uzbekistan due to the region's climatic conditions. In addition to stone and adobe, other materials such as wood and mud were also widely used. During the 9th to 12th centuries, various architectural structures, including mosques, mausoleums, madrasas, caravanserais, and open-market places, were built. Many of these buildings had domes, while others featured unique architectural elements. The walls of the buildings were decorated using intricate brickwork. In many districts of Uzbekistan, the ruins of palaces and fortresses have been preserved. They had high rampart walls and were two stories tall. The defensive walls and towers of cities and fortresses were also constructed using adobe and brick.",
+            
+            "mt7": "Madrasa of Muhammad Rahim Khan",
+            "mp7": "The Madrasa of Muhammad Rahim Khan is a historical monument located in Khiva (Xiva). It was built in 1871 by Muhammad Rahim II (Feruz). The madrasa is situated opposite the eastern gate of the old fortress. It consists of a mosque, a portal, a classroom, a library, and chambers. The front side of the madrasa is two stories high, while the other sides are single-story. The corners are adorned with floral decorations. The architecture of the Khiva region is reflected in the intricate tile work and ornamental motifs of the portal. The secret brickwork is executed in the \"qo'sh\" and \"bantak\" styles. The upper part of the portal features five deep-set chambers with latticed windows. The main section of the building has nine domed rooms. The mosque and classroom are interconnected with chambers. The courtyard is square-shaped, with 76 chambers arranged on three sides. The southern part of the courtyard includes a domed entrance and additional rooms.",
+
+            "mt8": "Madrasa and Minaret of Islam Khodja",
+            "mp8": "The Madrasa and Minaret of Islam Khodja were built at the beginning of the 20th century by Vazir Akbar Islam Khodja. The madrasa consists of 42 rooms and accommodates 100 students. Its front side is two stories high, and the towering minaret adds grandeur to the madrasa. Islam Khodja dedicated 14,451 tanab (5,780 hectares) of his own land for the endowment of the madrasa. The entrance portal of the madrasa is adorned with marble decorations, indicating its construction history. The master who crafted the minaret left his name inscribed on one of the tiles on the left side of the entrance portal, which reads: 'Esh Muhammad ibn Khudoy Berdi 1328' (1910). Presently, the Museum of Applied Arts of Khorezm is located in the madrasa. It showcases precious art objects from the 13th to the 20th centuries, including exquisite embroidery, ceramics, carpets, gold embroidery, and jewelry."
+    
+        }
+}

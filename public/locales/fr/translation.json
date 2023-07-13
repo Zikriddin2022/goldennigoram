@@ -1,0 +1,117 @@
+{
+    "NAVBAR":{
+        "travel":"GOLDENNIGORAM Voyage",
+        "home":"Maison",
+        "about":"à propos",
+        "hotel":"Hôtels et séjours",
+        "visit":"Lieux à visiter",
+        "contact":"Contact",
+        "uzbekistan":"Ouzbékistan",
+        "gallery":"Galerie",
+        "language":"Langue"
+    },
+
+    "HOME":{
+        "welcome": "Bienvenue en Ouzbékistan",
+        "our": "Voyagez avec nous"
+    },
+
+    "Main":{
+        "most": "Les destinations les plus visitées",
+        "details": "Détails",
+        "meros": "Patrimoine culturel",
+        
+        "samarqand": "Visite de la ville de Samarcande",
+        "sdesc": "Le patrimoine culturel de Samarcande est immense. Pendant des siècles, cette ville a été le principal centre de la Grande Route de la Soie. Au début du 21e siècle, la ville a été inscrite sur la liste du patrimoine mondial de l'UNESCO sous le nom de \"Samarcande - Carrefour des Cultures\" ! Visitez la ville, vous serez surpris par le nombre de monuments historiques, mais nous vous montrerons les sites les plus célèbres qui méritent vraiment d'être visités ! Les boutiques de souvenirs de Samarcande peuvent ravir les amateurs d'artisanat en bois, en tissu et d'autres matériaux. Traditionnellement, la composition des bâtiments de maître se trouve dans les anciennes médersas, et tous les artisanats sont réalisés à la main par les artisans. Mais à Samarcande, en plus des souvenirs, il est possible de montrer plusieurs produits que vous ne trouverez nulle part ailleurs dans le pays.",
+        "sdetails": "1. Complexe des mausolées à Shahizin. 2. Mausolée Khwaja Abdu Darun. 3. Mosquée Bibikhanim. 4. Mausolée Gori Amir. 5. Complexe Khoja Ahror Vali. 6. Médersa Ulugbek. 7. Mausolée Ruhabad. 8. Complexe Khoja Abdu Berun. 9. Médersa Sherdar. 10. Médersa Tillakori. 11. Mosquée Hazrat Khizr. 12. Tombeau de l'Imam al-Maturidi. 13. Complexe commémoratif de l'Imam al-Bukhari. 14. Tombeau de l'Imam al-Dorami.",
+        "sregion": "Région de Samarcande en Ouzbékistan",
+        
+        "buxoro": "Visite de la ville de Boukhara",
+        "bdesc": "La sainte Boukhara est l'un des joyaux touristiques de l'Ouzbékistan. Le centre historique de la ville est inscrit sur la liste du patrimoine mondial de l'UNESCO. La ville a plus de 2500 ans d'histoire. Si vous souhaitez plonger dans l'atmosphère d'un conte oriental ancien, visitez les endroits les plus intéressants de Boukhara : Boukhara est une ville oasis, le plus grand établissement au milieu du désert. Autrefois située sur la Grande Route de la Soie, la ville est l'une des plus anciennes, avec plus de 2500 ans d'histoire. Une ville avec une atmosphère incroyable de sagesse, de sainteté et d'éducation. Une fois dans cette ville, vous aurez l'impression d'être dans un autre monde et sur une autre planète. Le mélange unique de civilisations culturelles, religieuses et ethniques a fait de Boukhara une ville d'impressions inoubliables.",
+        "bdetails": "1. Mausolée d'Ismail Samani. 2. Minaret Kalon. 3. Mosquée Mag'oki Attori. 4. Minaret de Vobkent. 5. Mosquée Namazgoh. 6. Mausolée Chashmai Ayyub. 7. Mausolée Bo'yonqulixon. 8. Mausolée d'Ulugbek. 9. Complexe Bahouddin Naqshband. 10. Madrasa Mir Arab. 11. Ensemble de Qo'shmadrasa. 12. Grande mosquée. 13. Ensemble commémoratif de Chor Bakr. 14. Mosquée Khodja Zayniddin. 15. Madrasa Kukaldosh. 16. Caravansérail Nodir Devonbegi. 17. Madrasa Abdulazizxon.",
+        "bregion": "Région de Boukhara en Ouzbékistan",
+
+        "xiva": "Visite de la ville de Khiva",
+        "xdesc": "Lorsque vous arrivez à Khiva, la première chose que vous verrez est l'immense mur de défense qui entoure Ichan-Kala. Derrière ses murs, la sensation de réalité réelle est complètement perdue. La magique Khiva est située sur une superficie de 25 hectares, et son âge est de plus de 2500 ans. La ville était le centre de la branche nord de la Grande Route de la Soie. La ville de Khiva est l'une des rares villes qui a préservé son originalité, telle que pensée initialement par les architectes. Khiva est un monument \"vivant\", une ville musée. Selon l'une des légendes, la ville antique a été fondée par Som, le fils de Noé des livres saints. Il commence à creuser un puits au milieu du désert. Les caravanes et les marchands qui passent goûtent l'eau étonnamment délicieuse et s'exclament \"hevah\", ce qui signifie \"comme c'est bon\". C'est ainsi que cette merveilleuse ville est née.",
+        "xdetails": "1. Mosquée du Vendredi. 2. Mausolée Sheikh Mukhtar Vali. 3. Mausolée de Said Alauddin. 4. Médersa Sherghazi Khan. 5. Mausolée et complexe de Pahlavon Mahmud. 6. Mausolée de Said Magrumjon. 7. Médersa Olloqulikhan. 8. Médersa Muhammad Amin Khan. 9. Médersa Muhammad Rahimkhan. 10. Médersa et minaret d'Islamkhoja.",
+        "xregion": "Région de Khorezm en Ouzbékistan",
+
+        "surx": "Visite de la ville de Surkhandarya",
+        "sudesc": "La région de Surkhandarya se distingue par ses montagnes et son écotourisme. Dans la région, vous pouvez voir des grottes, des massifs et des gorges qui montrent la beauté incroyable du paysage naturel. Ces endroits attirent beaucoup d'attention des touristes et des aventuriers. Ici, vous pouvez vous familiariser avec les monuments du passé lointain. Y compris les musées en plein air, les temples bouddhistes, les ruines d'anciens établissements, les anciennes forteresses, les lieux de culte. La vallée de Surkhandarya a été le berceau du développement d'une nouvelle culture. Il a donné les noms de célèbres poètes, théologiens, figures de l'islam, philosophes à l'histoire. Grâce à eux, de merveilleux monuments architecturaux du Moyen Âge sont apparus. L'importance de ces monuments est importante pour le monde islamique tout entier.",
+        "sudetails": "1. Complexe commémoratif Hakim at-Termiziy. 2. Complexe Sulton Saodat. 3. Mausolée Abu Iso at-Termiziy. 4. Minaret Jarqo'rg'on.",
+        "suregion": "Région de Surkhandarya en Ouzbékistan",
+
+        "qash": "Visite de la ville de Kashkadarya",
+        "qdesc": "La région est située dans le bassin de la rivière Kashkadarya sur les versants ouest des montagnes du Pamir-Aloy. La région de Kashkadarya est l'une des meilleures destinations situées dans l'oasis de Kashkadarya, qui possède le climat écologique le plus propre. Le nom Kashkadarya a plusieurs significations, notamment \"rivière qui disparaît dans le sable\" et \"rivière transparente et propre\". La ville de Karshi, le centre de la région, a célébré son 2700e anniversaire en 2006. Grâce au climat continental (et par endroits même subtropical) au pied des montagnes du Pamir-Aloy, cette région peut charmer les voyageurs avec ses paysages naturels propres, sa belle flore et sa faune. Il existe plusieurs réserves naturelles célèbres dans la région, telles que Kitab, Hisar et Kyzil-Soy.",
+        "qdetails": "1. Complexe commémoratif Khoja Sarroh. 2. Aksaroy. 3. Tombeau de Hazrat Imam. 4. Mausolée Gumbazi Sayyidon. 5. Tombeau de Sheikh Shamsiddin Kulol. 6. Complexe Langar Ota. 7. Complexe Husam Ota.",
+        "qregion": "Région de Kashkadarya en Ouzbékistan", 
+
+        "vodiy": "Un voyage à travers la vallée",
+        "vdesc": "La vallée est appelée le joyau de l'Asie centrale en raison de sa belle nature et de son climat agréable. La vallée, entourée des montagnes Tien-Shan et Hisar-Aloy, ouvre ses portes à la Syrdarya uniquement à l'ouest. La vallée a toujours joué un rôle important dans l'histoire et la culture de l'Asie centrale. Alqissa, l'État de Fergana - Dawan, est mentionné dans les anciennes chroniques chinoises de la fin du 2e siècle de notre ère, et au Moyen Âge, il était considéré comme l'une des terres les plus importantes de Movarounnahr. Au 11e siècle, Margilan était la plus grande ville de l'oasis de Fergana, où les marchands étendaient des tissus de soie le long de la Grande Route de la Soie vers l'Égypte, la Grèce, Bagdad, le Khorasan et Kashgar. Même aujourd'hui, Margilon peut être appelée la capitale de la soie de l'Ouzbékistan. Les artisans de la ville tissent du satin fait maison à partir de soie teinte de manière traditionnelle et le proposent sur le marché. Depuis 1100 ans, les artisans transmettent les secrets de la poterie en argile rouge locale et la décorent avec des peintures minérales naturelles et un émail fabriqué à partir des cendres d'herbes de montagne, de génération en génération.",
+        "vdetails": "1. Complexe Ahmed al-Farghani. 2. Mausolée Burkhaniddin Marginani. 3. Mausolée Khoja Amin. 4. Mausolée de Mullo Bazar Okhund. 5. Médersa Mulla Kyrgyz.",
+        "vregion": "Régions de Fergana, Namangan et Andijan en Ouzbékistan"
+        }  ,
+
+        "Footer":{
+            "man": "Notre adresse",
+            "loc": "77C7+46G, Little Ring Road, Yakkasaroy District, Tachkent, Ouzbékistan",
+            "a1": "Voyage à travers l'Ouzbékistan",
+            "a2": "Voyage à travers tout l'Ouzbékistan",
+            "a3": "Tours en groupe",
+            "a4": "Voyage à Samarkand historique",
+            "a5": "Voyage dans la vieille ville",
+            "a6": "Écotourisme à Zomin",
+            "a7": "Services",
+            "a8": "Tours",
+            "a9": "Agence",
+            "a10": "Tourisme",
+            "a11": "Paiement",
+            "a12": "Contactez-nous",
+            "a13": "Telegram",
+            "a14": "Instagram",
+            "a15": "Facebook",
+            "a16": "Email",
+            "a17": "Numéro de téléphone",
+            "a18": "Notre agence"
+        },
+
+        "About":{   
+            "aboutUs": "À propos de nous",
+            "gold": "Golden Nigoram est notre agence de voyage qui opère depuis plus de 5 ans. Nous collaborons avec plus de 120 pays et nous étendons constamment notre logistique. Nous sommes ravis de vous offrir nos services.",
+            "l1": "Billets aller-retour",
+            "l2": "Hébergement dans des hôtels 5 étoiles",
+            "l3": "Excursions vers des sites historiques",
+            "l4": "Visites guidées",
+            "p": "Embarquez pour des voyages inoubliables à travers l'Ouzbékistan."
+          },
+
+
+        "AboutUzbekistan":{
+            "city1": "Sites historiques de la ville de Samarcande",
+            "mt1": "Ensemble du mausolée Shah-i-Zinda",
+            "mp1": "Shah-i-Zinda est un complexe commémoratif à Samarcande, datant des XIe-XIXe siècles. Il comprend des mausolées, une mosquée, un minaret et des madrasas. Le plus ancien d'entre eux est le mausolée de Qusam ibn Abbas, connu du peuple sous le nom de Shah-i-Zinda (le roi vivant). L'ensemble se compose de trois groupes de bâtiments reliés par des chemins étroits. Les structures du groupe inférieur comprennent l'Abdulaziz Chortaghi, construit sur ordre du fils d'Ulugbek (1434-1435), avec une belle façade ornée de motifs complexes, ainsi qu'une mosquée avec d'exquis éléments décoratifs. Le groupe supérieur comprend le mausolée d'Amirzoda, le mausolée de Tuglu Tekin, le mausolée de Shirinbeka Og'o, le mausolée de Turkan Og'o situé en face, un mausolée à huit dômes et le mausolée d'Ali Nasafi, entre autres. Les bâtiments du groupe central comprennent un mausolée, une mosquée à trois parties, le mausolée de Khoja Ahmad, construit en 1360-1361, l'ensemble de Tuman Og'o (1405-1406) et deux mausolées sans nom de la fin du XIVe siècle, avec des portails d'entrée préservés. L'ensemble comprend également la madrasa Tamgach Bugrokhon (XIe siècle) et le mausolée d'Amir Burunduq (fin du XIVe siècle). Plus de 20 structures de l'ensemble sont sous la protection de l'État. Au XIXe-XXe siècles, plusieurs autres bâtiments ont été ajoutés à l'ensemble. Au XVIIIe siècle, un nouveau mausolée avec un toit de 40 dômes a été construit à l'emplacement du cimetière en ruine de Zinat. Conformément à la décision du Cabinet des ministres de la République d'Ouzbékistan en date du 16 juillet 2004, d'importants travaux de restauration et de rénovation ont été réalisés dans le complexe commémoratif de Shah-i-Zinda.",
+
+            "mt2": "Mausolée de Khwaja Abdu Darun",
+            "mp2": "Le mausolée de Khwaja Abdu Darun est situé du côté est (darun - intérieur) du mur de la forteresse de Samarkand. Il s'agit d'un ancien lieu de pèlerinage remontant au XIIe siècle, avec son bâtiment principal, le khonaqoh, construit au XVe siècle. La façade élaborée, le dôme et les murs décorés du mausolée reflètent le style architectural de l'époque d'Ulugbek. À l'intérieur du khonaqoh, se trouve la tombe d'Abdu Ma'zid, qui a vécu au IXe siècle. Le père vénéré de Khwaja Abdu Darun est connu sous le nom de Khwaja Abduqodir as-Said (Khwaja Abdu Berun) et a servi de dirigeant à Samarkand. Khwaja Abdu Darun est également appelé Khwaja-i Kunj. Il est décédé au mois de Zulqada de l'année 247 de l'Hégire (mai 861 dans le calendrier grégorien). La construction de cet endroit remonte à des temps anciens, lorsque l'adobe et la brique crue étaient utilisés en raison des conditions climatiques de l'Ouzbékistan. Du IXe au XIIe siècle, non seulement l'adobe mais aussi les briques cuites étaient largement utilisées dans la construction. Pendant cette période, diverses structures telles que les mosquées, les mausolées, les madrasas, les caravansérails et les marchés en plein air ont émergé. De nombreux bâtiments étaient construits avec des toits en forme de dôme, tandis que d'autres étaient ornés de détails architecturaux délicats. Les murs des bâtiments étaient décorés de motifs complexes réalisés avec du plâtre de boue. L'adobe jouait un rôle important à cette époque. En plus des maisons d'habitation, des ateliers d'artisanat et des magasins commerciaux ont été établis. Certains palais des dirigeants de la ville étaient également construits en utilisant de l'adobe. Dans de nombreux districts de l'Ouzbékistan, les vestiges de palais-forteresses avec des murs en adobe ont été préservés. Ils étaient hauts et avaient deux étages. Les murs de défense et les tours des villes et des forteresses étaient également construits en adobe et en brique crue.",
+
+            "mt3": "Mosquée Bibi Khanum",
+            "mp3": "La mosquée Bibi Khanum est un grand monument historique situé au cœur de Samarkand, associé à la mémoire d'Amir Timour (Tamerlan) et nommé d'après sa bien-aimée épouse, Bibi Khanum. Elle a été construite entre 1399 et 1404 sous le commandement d'Amir Timour et est considérée comme la plus grande mosquée d'Asie centrale. Le nom de la mosquée, qui signifie 'Grande Reine', est associé à l'épouse vénérée du souverain connue sous le nom de Saroy Mulk Khanum. La construction de la mosquée a commencé après le retour d'Amir Timour de sa campagne en Inde, mais les travaux ont été interrompus car peu de temps après, il a lancé une campagne militaire contre l'Empire ottoman. En 1404, lorsqu'Amir Timour est revenu de l'expédition militaire, il était mécontent du manque de grandeur du portail d'entrée de la mosquée et a ordonné sa démolition et sa reconstruction. Le complexe de la mosquée comprend une mosquée principale et deux mosquées plus petites. La cour du bâtiment couvre une superficie de 5 000 mètres carrés, pouvant accueillir jusqu'à 10 000 fidèles à la fois. La cour est ornée de quatre minarets, ajoutant à sa beauté architecturale. Le bâtiment est décoré de travaux de carreaux complexes, de marbre et de sculptures ornementales réalisées par des artisans qualifiés de différents pays lors de sa construction.",
+
+            "mt4": "Médersa d'Ulugbek",
+            "mp4": "Au milieu du XVe siècle, Mirzo Ulugbek (1409-1449), le petit-fils d'Amir Timour, est arrivé au pouvoir à Samarkand. Il était non seulement le représentant de la dynastie timouride, mais aussi un érudit et astronome éminent reconnu dans le monde entier. Sous son règne, les institutions éducatives ont prospéré dans des villes telles que Boukhara, Samarkand, Shahrisabz et G'ijduvon, avec Ulugbek à l'avant-garde. La médersa d'Ulugbek à Samarkand est considérée comme un chef-d'œuvre des institutions d'enseignement supérieur islamiques de la région orientale. Elle a été construite entre 1417 et 1420. D'un point de vue littéraire, elle n'était pas inférieure aux bâtiments établis par Timour, et en termes de force architecturale, elle les surpassait même. À l'origine, la médersa était composée de 50 cellules d'étudiants et pouvait accueillir plus d'une centaine d'étudiants chaque année. Les historiens affirment qu'Ulugbek lui-même enseignait à la médersa. Le célèbre poète Jami y a vécu et créé ses œuvres, et parmi ses étudiants figuraient des figures éminentes de l'ordre soufi Naqshbandi, telles que Shaykh Khwaja Ahrar Vali et le grand poète Alisher Navoi. Le bâtiment de deux étages est doté de quatre dômes imposants au-dessus des salles de cours et de quatre minarets aux coins. La façade principale est ornée de trois grandes et deux petites arches, créant une entrée magnifique donnant sur la cour. La structure interne de la médersa, y compris les chambres au deuxième étage et les dômes extérieurs, a subi des dommages lors des guerres du XVIIIe siècle. Les principaux travaux de restauration ont été réalisés par les architectes et les artistes de cette époque. En 1918, sous la direction de M.F. Mauer, un projet a été mis en œuvre pour restaurer le portail principal et les parties inférieures du bâtiment. Au cours d'un demi-siècle, la surface du bâtiment, ainsi que les murs extérieurs du côté nord, ont été renforcés et restaurés avec un nouvel enduit. La médersa d'Ulugbek est inscrite sur la liste du patrimoine mondial de l'UNESCO.",
+
+            "city2": "Sites historiques de Khiva",
+            "mt5": "Médersa d'Allakuli Khan",
+            "mp5": "La médersa d'Allakuli Khan est un monument historique à Khiva (1834-1835). La construction de la médersa est étroitement liée à l'ensemble architectural d'Itchan Kala. Elle a été construite dans le style d'un complexe de médersas supplémentaires qui étaient répandues en Asie centrale, reliées à l'Allakuli Khan Tim, à la médersa de Khojamberdibiy et à la porte de Polvon. La médersa est construite sur une fondation artificielle (3 mètres de hauteur), ce qui la rend significativement plus grande que les bâtiments environnants. Le bâtiment principal a une forme rectangulaire (62,45x47,0 mètres) avec une façade orientée vers l'ouest. Il se compose d'une cour centrale entourée d'un mihrab-saroy (une salle de prière), d'une mosquée, d'une salle de classe et de cellules à deux étages. La date de construction est conservée sur l'inscription à l'entrée. La cour (34,6x29,4 mètres) a un design unique et présente des cellules à deux étages au-dessus des petites coupoles de la porte de Polvon et partiellement au-dessus des coupoles des tours d'angle. La mosquée et la salle de classe (4,8x4,8 mètres) ont une structure similaire. Elles sont couvertes d'une coupole en forme de demi-lune. Les murs ont des niches profondes, donnant aux pièces une apparence spacieuse. Le portail (5,5x5,5 mètres) est situé du côté ouest de la médersa et est orné de décorations complexes de muqarnas (stalactites) dans le style « Iroqi ». Chacune des 99 cellules a sa propre entrée et des fenêtres avec des treillis en bois.",
+
+            "mt6": "Médersa de Muhammad Amin Khan",
+            "mp6": "La médersa de Muhammad Amin Khan est un monument historique situé du côté est du mur de la forteresse de Samarkand (darun-ichkari). Elle remonte au XIIe siècle, la première moitié du XVe siècle étant la période la plus importante de sa construction. Le bâtiment principal, un complexe mosquée-médersa, a été construit pendant le règne d'Ulugbek et est connu pour sa façade exquise, sa coupole et ses détails décoratifs. À l'intérieur du complexe, il y a une cour qui remonte au IXe siècle et contient la tombe du savant Abdu Ma'zid. Le père du célèbre Abdu Darun Padari, connu sous le nom de Khwaja Abduqodir as-Said (Khwaja Abdu Berun), qui a régné à Samarkand, est également enterré ici. Khwaja Abdu Darun, également connu sous le nom de Khwaja Kunj, est décédé au mois de Zulqa'ida de l'année 247 de l'Hégire (mai 861 de l'ère chrétienne). La construction de ce site a utilisé de l'adobe et de la brique, qui étaient couramment utilisés à l'époque ancienne en Ouzbékistan en raison des conditions climatiques de la région. En plus de la pierre et de l'adobe, d'autres matériaux tels que le bois et la boue étaient également largement utilisés. Au cours des IXe au XIIe siècles, diverses structures architecturales, notamment des mosquées, des mausolées, des médersas, des caravansérails et des places de marché, ont été construites. Beaucoup de ces bâtiments avaient des dômes, tandis que d'autres présentaient des éléments architecturaux uniques. Les murs des bâtiments étaient décorés de briques complexes. Dans de nombreux quartiers de l'Ouzbékistan, les ruines de palais et de forteresses ont été préservées. Elles étaient dotées de hauts remparts et avaient deux étages. Les murs de défense et les tours des villes et des forteresses étaient également construits en adobe et en brique.",
+         
+            "mt7": "Madrasa de Muhammad Rahim Khan",
+            "mp7": "La madrasa de Muhammad Rahim Khan est un monument historique situé à Khiva (Xiva). Elle a été construite en 1871 par Muhammad Rahim II (Feruz). La madrasa est située en face de la porte est de l'ancienne forteresse. Elle est composée d'une mosquée, d'un portail, d'une salle de classe, d'une bibliothèque et de chambres. Le côté avant de la madrasa est à deux étages, tandis que les autres côtés sont d'un étage. Les coins sont ornés de décorations florales. L'architecture de la région de Khiva se reflète dans les détails complexes des carreaux et les motifs ornementaux du portail. Le travail secret de briques est exécuté dans les styles \"qo'sh\" et \"bantak\". La partie supérieure du portail présente cinq chambres encastrées avec des fenêtres à claire-voie. La partie principale du bâtiment comprend neuf salles voûtées. La mosquée et la salle de classe sont reliées aux chambres. La cour est de forme carrée, avec 76 chambres disposées sur trois côtés. La partie sud de la cour comprend une entrée voûtée et des pièces supplémentaires.",
+
+            "mt8": "Madrasa et Minaret d'Islam Khodja",
+            "mp8": "La madrasa et le minaret d'Islam Khodja ont été construits au début du XXe siècle par Vazir Akbar Islam Khodja. La madrasa comprend 42 chambres et peut accueillir 100 étudiants. Son côté avant est à deux étages et le minaret imposant ajoute de la grandeur à la madrasa. Islam Khodja a consacré 14 451 tanab (5 780 hectares) de ses propres terres pour la dotation de la madrasa. Le portail d'entrée de la madrasa est orné de décorations en marbre, témoignant de son histoire de construction. Le maître qui a réalisé le minaret a laissé son nom gravé sur l'un des carreaux du côté gauche du portail d'entrée, qui indique : 'Esh Muhammad ibn Khudoy Berdi 1328' (1910). Actuellement, le Musée des Arts Appliqués de Khorezm est situé dans la madrasa. Il expose des objets d'art précieux du XIIIe au XXe siècle, notamment de la broderie exquise, de la céramique, des tapis, de la broderie dorée et des bijoux."
+        }
+
+}

@@ -1,24 +1,26 @@
-import logo from './logo.svg';
 import './App.css';
+import { BrowserRouter,Routes, Route } from 'react-router-dom';
+import Homes from './pages/Homes/Homes.jsx';
+import About from './pages/About/About.jsx';
+import Contact from './pages/Contacts/index.jsx';
+import Uzbekistan from './pages/AboutUzbekistan/index.js';
+import Galery from './pages/PhotoGallery/index.js';
+
+
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+   <BrowserRouter>
+    <Routes>
+      <Route index element={<Homes/> } />
+      <Route path='/home' element={<Homes/>} />
+      <Route path='/about' element={<About/>} />
+      <Route path='/contact' element={<Contact/>} />
+      <Route path='/uzbekistan' element={<Uzbekistan/>} />
+      <Route path='/galery' element={<Galery/>} />
+
+    </Routes>
+   </BrowserRouter>
   );
 }
 

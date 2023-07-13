@@ -1,0 +1,45 @@
+.hasosiy {
+  padding-top: 80px;
+}
+.hasosiy .region {
+  text-align: center;
+}
+.hasosiy .hflex {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.hasosiy .hflex .history {
+  padding: 20px;
+  width: 88%;
+  margin: auto;
+}
+.hasosiy .hflex .history img {
+  width: 100%;
+}
+.hasosiy .hflex .history .hdescription {
+  margin-top: 30px;
+}
+
+@media screen and (max-width: 500px) {
+  .hasosiy {
+    padding-top: 80px;
+  }
+  .hasosiy .region {
+    text-align: center;
+  }
+  .hasosiy .hflex {
+    display: block;
+  }
+  .hasosiy .hflex .history {
+    width: 88%;
+    margin: auto;
+  }
+  .hasosiy .hflex .history img {
+    width: 100%;
+    height: 300px !important;
+  }
+  .hasosiy .hflex .history .hdescription {
+    margin-top: 30px;
+  }
+}/*# sourceMappingURL=aboutUzbekistan.css.map */

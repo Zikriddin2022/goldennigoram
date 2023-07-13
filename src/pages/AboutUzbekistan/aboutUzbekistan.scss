@@ -1,0 +1,56 @@
+.hasosiy {
+    padding-top: 80px;
+    
+
+    .region {
+        text-align: center;
+    }
+
+    .hflex{
+        display: flex ;
+        justify-content: center;
+        align-items: center;
+
+        .history {
+        padding: 20px;
+        width: 88%;
+        margin: auto;
+       
+
+            img{
+                width: 100%;
+            }
+
+            .hdescription{
+                margin-top:30px;
+            }
+        }
+    }
+}
+
+@media screen and (max-width:500px) {
+    .hasosiy {
+        padding-top: 80px;
+
+        .region {
+            text-align: center;
+        }
+        .hflex{
+            display: block ;
+
+            .history {
+                width: 88%;
+                margin: auto;
+
+                img{
+                    width: 100%;
+                    height: 300px !important;
+                }
+
+                .hdescription{
+                    margin-top:30px;
+                }
+            }  
+       } 
+    }
+}
